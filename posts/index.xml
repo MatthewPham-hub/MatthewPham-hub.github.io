@@ -11,12 +11,12 @@
     <generator>Hugo -- gohugo.io</generator>
     <lastBuildDate>Mon, 09 May 2022 22:13:54 -0600</lastBuildDate><atom:link href="https://matthewpham-hub.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>First</title>
+      <title>Introduction</title>
       <link>https://matthewpham-hub.github.io/posts/first/</link>
       <pubDate>Mon, 09 May 2022 22:13:54 -0600</pubDate>
       
       <guid>https://matthewpham-hub.github.io/posts/first/</guid>
-      <description>First blog post, to introduce myself I am currently heading into my fifth year as a computer science student at Mount Royal University. I am an avid developer and I mostly program in C++, Java and Python. I have an interest in Web Development, databases, and software development.</description>
+      <description>I am currently heading into my fifth year as a computer science student at Mount Royal University. I am an avid developer and I mostly program in C++, Java and Python. I have an interest in Web Development, databases, and software development.</description>
     </item>
     
   </channel>

@@ -9,14 +9,24 @@
       <link>https://matthewpham-hub.github.io/papermod-cover.png</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Thu, 26 May 2022 02:06:58 -0600</lastBuildDate><atom:link href="https://matthewpham-hub.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 26 May 2022 02:30:05 -0600</lastBuildDate><atom:link href="https://matthewpham-hub.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Snake</title>
+      <link>https://matthewpham-hub.github.io/posts/snake/</link>
+      <pubDate>Thu, 26 May 2022 02:30:05 -0600</pubDate>
+      
+      <guid>https://matthewpham-hub.github.io/posts/snake/</guid>
+      <description>Implementation of snake in C made for the Atari ST, source code can unfortunately not be shared. Link to the compiled snake project!
+One of the most informative projects I have worked on, coded in a mix of Motorola 68000 assembly and C. Coding my own interrupts and double buffering, and other features on a very old computer was very enlightening.</description>
+    </item>
+    
     <item>
       <title>3-SAT Solver</title>
       <link>https://matthewpham-hub.github.io/posts/3-sat/</link>
       <pubDate>Thu, 26 May 2022 02:06:58 -0600</pubDate>
       
       <guid>https://matthewpham-hub.github.io/posts/3-sat/</guid>
-      <description>Link to my group&amp;rsquo;s 3-SAT implementation! An old implementaiton of a 3-SAT solver, seocnd year project. The documentation and implemtnation is a bit rough around the edges, possibly revisiting it at some point.</description>
+      <description>Link to my group&amp;rsquo;s 3-SAT implementation! An old implementaiton of a 3-SAT solver, seocnd year project. The documentation and implementation is a bit rough around the edges, possibly revisiting it at some point.</description>
     </item>
     
     <item>
